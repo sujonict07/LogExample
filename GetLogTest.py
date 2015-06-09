@@ -1,5 +1,5 @@
 import logging
-
+logging.basicConfig(filename='test.log',level=logging.DEBUG)
 logger = logging.getLogger('logExample')
 logger.setLevel(logging.DEBUG)
 
@@ -9,7 +9,7 @@ ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
 
 ch.setFormatter(formatter)
-
+logging.FileHandler
 
 logger.addHandler(ch)
 logger.debug('logger debug test')
