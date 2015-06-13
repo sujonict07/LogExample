@@ -1,0 +1,16 @@
+2015-06-09 18:50:32,622 - simpleExample INFO -- info message 
+2015-06-09 18:50:32,622 - simpleExample WARNING -- warn message
+2015-06-09 18:50:32,622 - simpleExample ERROR -- error messages
+2015-06-09 18:50:32,622 - simpleExample CRITICAL -- critical message
+2015-06-10 10:58:44,042 - simpleExample INFO -- info message 
+2015-06-10 10:58:44,042 - simpleExample WARNING -- warn message
+2015-06-10 10:58:44,042 - simpleExample ERROR -- error messages
+2015-06-10 10:58:44,042 - simpleExample CRITICAL -- critical message
+2015-06-10 10:59:04,234 - testLogger INFO -- info message 
+2015-06-10 10:59:04,235 - testLogger WARNING -- warn message
+2015-06-10 10:59:04,235 - testLogger ERROR -- error messages
+2015-06-10 10:59:04,235 - testLogger CRITICAL -- critical message
+2015-06-10 11:00:15,153 - __main__ INFO -- info message 
+2015-06-10 11:00:15,153 - __main__ WARNING -- warn message
+2015-06-10 11:00:15,153 - __main__ ERROR -- error messages
+2015-06-10 11:00:15,153 - __main__ CRITICAL -- critical message

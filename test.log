@@ -1,0 +1,31 @@
+DEBUG:logExample:logger debug test
+INFO:logExample:this is info
+WARNING:logExample:warn message 
+ERROR:logExample:error messages
+CRITICAL:logExample:critical messages
+DEBUG:logExample:logger debug test
+INFO:logExample:this is info
+WARNING:logExample:warn message 
+ERROR:logExample:error messages
+CRITICAL:logExample:critical messages
+DEBUG:logExample:logger debug test
+INFO:logExample:this is info
+WARNING:logExample:warn message 
+ERROR:logExample:error messages
+CRITICAL:logExample:critical messages
+INFO:logExample:this is info
+WARNING:logExample:warn message 
+ERROR:logExample:error messages
+CRITICAL:logExample:critical messages
+INFO:logExample:this is info
+WARNING:logExample:warn message 
+ERROR:logExample:error messages
+CRITICAL:logExample:critical messages
+INFO:GetLogTest:this is info
+WARNING:GetLogTest:warn message 
+ERROR:GetLogTest:error messages
+CRITICAL:GetLogTest:critical messages
+INFO:GetLogTest:this is info
+WARNING:GetLogTest:warn message 
+ERROR:GetLogTest:error messages
+CRITICAL:GetLogTest:critical messages

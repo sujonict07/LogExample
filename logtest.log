@@ -1,0 +1,68 @@
+2015-06-10 12:23:42,014 - GetLogTest2 INFO -- info message 
+2015-06-10 12:23:42,014 - GetLogTest2 WARNING -- warn message
+2015-06-10 12:23:42,014 - GetLogTest2 ERROR -- error messages
+2015-06-10 12:23:42,014 - GetLogTest2 CRITICAL -- critical message
+2015-06-10 12:24:34,182 - GetLogTest2 INFO -- info message 
+2015-06-10 12:24:34,182 - GetLogTest2 WARNING -- warn message
+2015-06-10 12:24:34,182 - GetLogTest2 ERROR -- error messages
+2015-06-10 12:24:34,183 - GetLogTest2 CRITICAL -- critical message
+2015-06-11 12:08:14,266 - GetLogTest2 DEBUG -- debug message
+2015-06-11 12:08:14,266 - GetLogTest2 INFO -- info message 
+2015-06-11 12:08:14,266 - GetLogTest2 WARNING -- warn message
+2015-06-11 12:08:14,266 - GetLogTest2 ERROR -- error messages
+2015-06-11 12:08:14,266 - GetLogTest2 CRITICAL -- critical message
+2015-06-11 12:09:48,324 - A logger DEBUG -- debug message
+2015-06-11 12:09:48,324 - A logger INFO -- info message 
+2015-06-11 12:09:48,324 - A logger WARNING -- warn message
+2015-06-11 12:09:48,324 - A logger ERROR -- error messages
+2015-06-11 12:09:48,324 - A logger CRITICAL -- critical message
+2015-06-11 12:14:39,027 - A logger DEBUG -- debug message
+2015-06-11 12:14:39,027 - A logger INFO -- info message 
+2015-06-11 12:14:39,027 - A logger WARNING -- warn message
+2015-06-11 12:14:39,027 - A logger ERROR -- error messages
+2015-06-11 12:14:39,027 - A logger CRITICAL -- critical message
+2015-06-11 12:14:39,027 - B logger DEBUG -- debug message logFuncTest
+2015-06-11 12:14:39,028 - B logger INFO -- info message logFuncTest
+2015-06-11 12:14:39,028 - B logger WARNING -- warn message logFuncTest
+2015-06-11 12:14:39,028 - B logger ERROR -- error messages logFuncTest
+2015-06-11 12:14:39,028 - B logger CRITICAL -- critical message logFuncTest
+2015-06-11 12:14:39,028 - GetLogTest2 DEBUG -- debug message logFuncTest
+2015-06-11 12:14:39,028 - GetLogTest2 INFO -- info message logFuncTest
+2015-06-11 12:14:39,028 - GetLogTest2 WARNING -- warn message logFuncTest
+2015-06-11 12:14:39,028 - GetLogTest2 ERROR -- error messages logFuncTest
+2015-06-11 12:14:39,028 - GetLogTest2 CRITICAL -- critical message logFuncTest
+2015-06-11 12:20:11,072 - A logger DEBUG -- debug message
+2015-06-11 12:20:11,072 - A logger INFO -- info message 
+2015-06-11 12:20:11,072 - A logger WARNING -- warn message
+2015-06-11 12:20:11,072 - A logger ERROR -- error messages
+2015-06-11 12:20:11,072 - A logger CRITICAL -- critical message
+2015-06-11 12:20:11,072 - B logger DEBUG -- debug message logFuncTest
+2015-06-11 12:20:11,072 - B logger INFO -- info message logFuncTest
+2015-06-11 12:20:11,072 - B logger WARNING -- warn message logFuncTest
+2015-06-11 12:20:11,072 - B logger ERROR -- error messages logFuncTest
+2015-06-11 12:20:11,073 - B logger CRITICAL -- critical message logFuncTest
+2015-06-11 12:20:11,073 - GetLogTest2 DEBUG -- debug message logFuncTest
+2015-06-11 12:20:11,073 - GetLogTest2 INFO -- info message logFuncTest
+2015-06-11 12:20:11,073 - GetLogTest2 WARNING -- warn message logFuncTest
+2015-06-11 12:20:11,073 - GetLogTest2 ERROR -- error messages logFuncTest
+2015-06-11 12:20:11,073 - GetLogTest2 CRITICAL -- critical message logFuncTest
+2015-06-11 12:43:00,257 - A logger DEBUG -- debug message
+2015-06-11 12:43:00,257 - A logger INFO -- info message 
+2015-06-11 12:43:00,257 - A logger WARNING -- warn message
+2015-06-11 12:43:00,257 - A logger ERROR -- error messages
+2015-06-11 12:43:00,257 - A logger CRITICAL -- critical message
+2015-06-11 12:43:37,724 - A logger DEBUG -- debug message
+2015-06-11 12:43:37,724 - A logger INFO -- info message 
+2015-06-11 12:43:37,724 - A logger WARNING -- warn message
+2015-06-11 12:43:37,724 - A logger ERROR -- error messages
+2015-06-11 12:43:37,724 - A logger CRITICAL -- critical message
+2015-06-11 12:43:45,016 - A logger DEBUG -- debug message
+2015-06-11 12:43:45,016 - A logger INFO -- info message 
+2015-06-11 12:43:45,017 - A logger WARNING -- warn message
+2015-06-11 12:43:45,017 - A logger ERROR -- error messages
+2015-06-11 12:43:45,017 - A logger CRITICAL -- critical message
+2015-06-11 12:45:28,553 - A logger DEBUG -- debug message
+2015-06-11 12:45:28,553 - A logger INFO -- info message 
+2015-06-11 12:45:28,553 - A logger WARNING -- warn message
+2015-06-11 12:45:28,553 - A logger ERROR -- error messages
+2015-06-11 12:45:28,553 - A logger CRITICAL -- critical message

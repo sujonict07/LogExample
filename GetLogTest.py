@@ -1,12 +1,14 @@
 import logging
-logging.basicConfig(filename='test.log',level=logging.DEBUG)
-logger = logging.getLogger('logExample')
-logger.setLevel(logging.DEBUG)
+
+print __name__
+logging.basicConfig(filename='test.log',level=logging.INFO)
+logger = logging.getLogger('GetLogTest')
+logger.setLevel(logging.INFO)
 
 formatter = logging.Formatter('%(asctime)s -- %(name)s- %(levelname)s-- %(message)s')
 
 ch = logging.StreamHandler()
-ch.setLevel(logging.DEBUG)
+ch.setLevel(logging.INFO)
 
 ch.setFormatter(formatter)
 logging.FileHandler
